@@ -48,23 +48,6 @@ RHSystem.h → class and method declarations
 
 README.md → project documentation
 
-🖥️ How to Run the Project
-
-Clone the repository
-
-git clone https://github.com/yourusername/hr-system.git
-
-Enter the project directory
-
-cd hr-system
-
-Compile the code
-
-g++ main.cpp RHSystem.cpp -o hrSystem
-
-Run the program
-
-./hrSystem
 📊 Example Usage
 
 The system allows the user to calculate salaries and overtime based on the employee's job position.
